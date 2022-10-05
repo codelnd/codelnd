@@ -13,8 +13,13 @@
 - ⚡ Fun fact: ...
 
 #### Мои навыки:
-![HTML](https://img.icons8.com/ios-filled/50/000000/html-5--v2.png)![CSS](https://img.icons8.com/ios/50/000000/css.png)![JS](https://img.icons8.com/color/48/000000/javascript--v1.png)
-
+![HTML](https://img.icons8.com/ios-filled/50/000000/html-5--v2.png)
+![CSS](https://img.icons8.com/ios/50/000000/css.png)
+![Sass](https://img.icons8.com/color/48/000000/sass.png)
+![JS](https://img.icons8.com/color/48/000000/javascript--v1.png)
+![React](https://img.icons8.com/plasticine/50/000000/react.png)
+![Node](https://img.icons8.com/color/50/000000/nodejs.png)
+![as](assets/expressjs.png)
 
 #### Моя статистика:
 [![Codewarrior Profile Badges](https://www.codewars.com/users/idenis/badges/large)](https://www.codewars.com/users/Yurick)
