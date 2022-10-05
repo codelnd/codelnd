@@ -31,6 +31,6 @@
 ![Postman](assets/postman.png)
 
 ### Моя статистика:
-[![Codewarrior Profile Badges](https://www.codewars.com/users/idenis/badges/large)](https://www.codewars.com/users/Yurick)
+[![Codewarrior Profile Badges](https://www.codewars.com/users/idenis/badges/large)](https://www.codewars.com/users/idenis)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codelnd&layout=compact)](https://github.com/codelnd/github-readme-stats)
