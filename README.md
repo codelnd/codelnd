@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=codelnd)
 ### Всем привет! Меня зовут Денис  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&pause=1500&color=8E00FFCF&width=435&lines=%D0%AF+Junior+Front-end+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&pause=1500&color=717171E4&width=435&lines=%D0%AF+Junior+Front-end+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)](https://git.io/typing-svg)
 
 #### О себе:
 - 🔭 I’m currently working on ...
@@ -12,6 +11,10 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+#### Мои навыки:
+![HTML]()
+
 
 #### Моя статистика:
 [![Codewarrior Profile Badges](https://www.codewars.com/users/idenis/badges/large)](https://www.codewars.com/users/Yurick)
