@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 
 #### Мои навыки:
-![HTML]()
+[![HTML](https://github.com/codelnd/codelnd/tree/main/assets/html.png)]
 
 
 #### Моя статистика:
