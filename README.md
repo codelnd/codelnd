@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 
 #### Мои навыки:
-![HTML](https://img.icons8.com/ios-filled/50/000000/html-filetype.png)![CSS](https://img.icons8.com/ios/50/000000/css-filetype.png)![JS](https://img.icons8.com/color/48/000000/javascript--v1.png)
+![HTML](https://img.icons8.com/ios-filled/50/000000/html-5--v2.png)![CSS](https://img.icons8.com/ios/50/000000/css.png)![JS](https://img.icons8.com/color/48/000000/javascript--v1.png)
 
 
 #### Моя статистика:
