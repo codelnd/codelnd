@@ -38,4 +38,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codelnd&layout=compact)](https://github.com/codelnd/github-readme-stats)
 
-
+<img src="https://habrastorage.org/webt/l8/wn/x0/l8wnx0ip3hxoi80bwvs5tfeqso0.gif" width="350"/> 
