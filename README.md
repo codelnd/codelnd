@@ -4,19 +4,13 @@
  
 
 ### О себе:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 💪 Полтора года опыта работы на фрилансе
-- 🎉 I love to paint and play the guitar
-- 🥅 I am constantly learning new things
-- ⚡ I love writing an article for https://webtricks-master.ru/
-- 🤹🏽 I like to shoot videos for youtube
+- ✍ Стараюсь писать чистый читабельный код
+- 💪 Имею полтора года опыта работы на фрилансе
+- 🎯 Стремлюсь к работе с настоящими боевыми проектами
+- 🚀 Оттачиваю навыки / осваиваю новые технологии и фреймворки
+- ⏱ Учусь анализировать сложность алгоритмов / улучшать производительность
+- ⚡ Хочу создавать классные сервисы для удобного взаимодействия с пользователями
+
 
 ### Мои навыки:
 ![HTML](https://img.icons8.com/ios-filled/50/000000/html-5--v2.png)
