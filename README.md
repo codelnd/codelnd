@@ -27,7 +27,6 @@
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 ![NGINX](assets/nginx.png)
 
-
 ### Инструменты:
 ![WS](https://img.icons8.com/color/48/000000/webstorm.png)
 ![Figma](https://img.icons8.com/color/48/000000/figma.png)
@@ -39,3 +38,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codelnd&layout=compact)](https://github.com/codelnd/github-readme-stats)
 
 <img src="https://habrastorage.org/webt/l8/wn/x0/l8wnx0ip3hxoi80bwvs5tfeqso0.gif" width="350"/> 
+
+### Контакты:
+<a href="https://t.me/codenis">
+<img alt="Денис Телеграм" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>
+</a>
+<a href="mailto:codenisweb@yandex.ru">
+  <img alt="Денис Емэил" src="https://img.icons8.com/fluency/48/000000/circled-envelope.png" />
+</a>
