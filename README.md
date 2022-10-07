@@ -26,6 +26,8 @@
 ![Express](assets/expressjs.png)
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 ![NGINX](assets/nginx.png)
+![PM2](assets/pm2.png)
+![ESlint](https://img.icons8.com/color/48/000000/eslint.png)
 
 ### Инструменты:
 ![WS](https://img.icons8.com/color/48/000000/webstorm.png)
