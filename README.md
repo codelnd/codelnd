@@ -18,18 +18,18 @@
 ![Node](https://img.icons8.com/color/48/000000/nodejs.png)
 ![Express](assets/expressjs.png)
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
-![Git](https://img.icons8.com/ios-filled/48/000000/git.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
 ![Webpack](https://img.icons8.com/color/48/000000/webpack.png)
 ![NGINX](assets/nginx.png)
 ![PM2](assets/pm2.png)
 ![ESlint](https://img.icons8.com/color/48/000000/eslint.png)
 ![styledcomponents](assets/styledcomponents.png)
 ![Sass](https://img.icons8.com/color/48/000000/sass.png)
+![Gulp](https://img.icons8.com/windows/48/E74C3C/gulp.png)
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+![tailwind](https://img.icons8.com/color/48/000000/tailwind_css.png)
 ![HTML](https://img.icons8.com/ios-filled/48/000000/html-5--v2.png)
 ![CSS](https://img.icons8.com/ios/48/000000/css.png)
-![Gulp](https://img.icons8.com/windows/48/000000/gulp.png)
-![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-
 
 ### Инструменты:
 ![WS](https://img.icons8.com/color/48/000000/webstorm.png)
