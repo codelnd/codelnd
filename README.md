@@ -12,21 +12,24 @@
 - 🔨 Хочу создавать классные сервисы для удобного взаимодействия с пользователями
 
 ### Мои навыки:
-![HTML](https://img.icons8.com/ios-filled/50/000000/html-5--v2.png)
-![CSS](https://img.icons8.com/ios/50/000000/css.png)
-![Sass](https://img.icons8.com/color/48/000000/sass.png)
-![Gulp](https://img.icons8.com/windows/50/000000/gulp.png)
-![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-![Git](https://img.icons8.com/ios-filled/50/000000/git.png)
 ![JS](https://img.icons8.com/color/48/000000/javascript--v1.png)
-![Webpack](https://img.icons8.com/color/48/000000/webpack.png)
-![React](https://img.icons8.com/plasticine/50/000000/react.png)
-![Node](https://img.icons8.com/color/50/000000/nodejs.png)
+![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+![React](https://img.icons8.com/plasticine/48/000000/react.png)
+![Node](https://img.icons8.com/color/48/000000/nodejs.png)
 ![Express](assets/expressjs.png)
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+![Git](https://img.icons8.com/ios-filled/48/000000/git.png)
+![Webpack](https://img.icons8.com/color/48/000000/webpack.png)
 ![NGINX](assets/nginx.png)
 ![PM2](assets/pm2.png)
 ![ESlint](https://img.icons8.com/color/48/000000/eslint.png)
+![styledcomponents](assets/styledcomponents.png)
+![Sass](https://img.icons8.com/color/48/000000/sass.png)
+![HTML](https://img.icons8.com/ios-filled/48/000000/html-5--v2.png)
+![CSS](https://img.icons8.com/ios/48/000000/css.png)
+![Gulp](https://img.icons8.com/windows/48/000000/gulp.png)
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+
 
 ### Инструменты:
 ![WS](https://img.icons8.com/color/48/000000/webstorm.png)
