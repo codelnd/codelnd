@@ -23,6 +23,7 @@
 ![NGINX](assets/nginx.png)
 ![PM2](assets/pm2.png)
 ![ESlint](https://img.icons8.com/color/48/000000/eslint.png)
+![prettier](assets/prettier.png)
 ![styledcomponents](assets/styledcomponents.png)
 ![Sass](https://img.icons8.com/color/48/000000/sass.png)
 ![Gulp](https://img.icons8.com/windows/48/E74C3C/gulp.png)
