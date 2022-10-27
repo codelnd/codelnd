@@ -33,6 +33,7 @@
 ![CSS](https://img.icons8.com/ios/48/000000/css.png)
 
 ### Инструменты:
+![Slack](https://img.icons8.com/color/48/000000/slack-new.png)
 ![WS](https://img.icons8.com/color/48/000000/webstorm.png)
 ![Figma](https://img.icons8.com/color/48/000000/figma.png)
 ![Postman](assets/postman.png)
