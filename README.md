@@ -15,6 +15,8 @@
 ![JS](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 ![React](https://img.icons8.com/plasticine/48/000000/react.png)
+![Redux](https://img.icons8.com/color/48/null/redux.png)
+![GraphQL](https://img.icons8.com/color/48/null/graphql.png)
 ![Node](https://img.icons8.com/color/48/000000/nodejs.png)
 ![Express](assets/expressjs.png)
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
