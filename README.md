@@ -106,7 +106,7 @@
       <br>Bootstrap
     </td>
    <td align="center" width="110" height="90">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
       <br>Tailwind CSS
     </td>
   </tr> 
