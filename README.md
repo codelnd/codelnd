@@ -2,13 +2,15 @@
   <img src="./assets/logoF.png" alt="codelnd" align="center"/>
 </a>
 
+---
+
 ![](https://komarev.com/ghpvc/?username=codelnd)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EBDBBE&random=false&width=435&lines=Frontend-developer+%F0%9F%A7%8A)](https://git.io/typing-svg)
 
 ### О себе:
 
-Постоянно следую за новыми тендециями и лучшими практиками в веб-разработке.
+Постоянно следую за новыми тенденциями и лучшими практиками в веб-разработке.
 
 ### Tech stack:
 
@@ -107,7 +109,7 @@
     </td>
    <td align="center" width="110" height="90">
         <img src="./assets/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
-      <br>Tailwind CSS
+      <br>Tailwind
     </td>
   </tr> 
 </table>
@@ -118,6 +120,10 @@
      <td align="center" width="110" height="90">
         <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
       <br>Jest
+    </td>
+    <td align="center" width="110" height="90">
+        <img src="https://brandeps.com/icon-download/C/Cypress-icon-vector-01.svg" width="36" height="36" alt="cypress" />
+      <br>Cypress
     </td>
         <td align="center" width="110" height="90">
         <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="storybook" />
