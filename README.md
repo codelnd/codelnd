@@ -180,8 +180,7 @@
 
 <img src="https://habrastorage.org/webt/l8/wn/x0/l8wnx0ip3hxoi80bwvs5tfeqso0.gif" width="350"/> 
 
-[![Codewarrior Profile Badges](https://www.codewars.com/users/idenis/badges/large)](https://www.codewars.com/users/idenis)
-### Contacts:
+### Контакты:
 
 <a href="https://t.me/codenis">
 <img alt="мой телеграм" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>
